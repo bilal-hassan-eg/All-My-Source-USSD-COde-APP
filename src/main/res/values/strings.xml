@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">USSD Code</string>
+    <string name="accessibility_description">This service records pop ups sent by your mobile operator, and saves them in XXXX App. It is absolutely safe to use.</string>
+</resources>
