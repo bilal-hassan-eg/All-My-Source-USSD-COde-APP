@@ -1,2 +1,5 @@
-Use POISHADOW - all library 
-to work with excel File
+Make APP That work with USSD Codes to make 
+USSD Calles and make response to it
+it used to tranfer money via vodafone cash to many number used by compnay in cairo
+it used sqllite as database and store ussd codes to use it in app
+it programmed by java , xml , andriod stuido , sqlite3
